@@ -57,7 +57,7 @@ angle4 = np.array([
 B26_1_THITI_image = face.load_image_file("People/B26_1_THITI.jpg")
 B26_1_THITI_face_encoding = face.face_encodings(B26_1_THITI_image)[0] # B26_1_CHAIYAKON
 
-# No.007
+# พ.อ.อ.สมพร  ทองทรัพย์
 C68_1_Somporn_image = face.load_image_file("People/C68_1_Somporn.jpg")
 C68_1_Somporn_face_encoding = face.face_encodings(C68_1_Somporn_image)[0]
 
@@ -101,7 +101,7 @@ known_face_names1 = [
     
     "ร.ต.ธิติ จันทรินทร์", # ร.ต.ธิติ จันทรินทร์
 
-    "พ.อ.อ.สมพร  ทองทรัพย์"
+    "พ.อ.อ.สมพร  ทองทรัพย์" # พ.อ.อ.สมพร  ทองทรัพย์
 ]
 
 # ตำแหน่ง > แจ้งลง LINE Notify
@@ -109,7 +109,7 @@ known_face_names2 = [
 
     "ผบ.มว.ปตอ.ร้อย.ตอ.พัน.อย.รร.การบิน",# ร.ต.ธิติ จันทรินทร์           
 
-    "ผบ.หมู่ ๑ มว.๑ ร้อย.รก.ฯ"
+    "ผบ.หมู่ ๑ มว.๑ ร้อย.รก.ฯ" # พ.อ.อ.สมพร  ทองทรัพย์
 ]
 
 # หน่วยงาน > แจ้งลง LINE Notify
@@ -118,7 +118,7 @@ known_face_names3 = [
     
     "พัน.อย.รร.การบิน", # ร.ต.ธิติ จันทรินทร์                
 
-    "พัน.อย.รร.การบิน"
+    "พัน.อย.รร.การบิน" # พ.อ.อ.สมพร  ทองทรัพย์
 ]
 
 #loopคำนวณแต่ละเฟรมของวิดีโอ
